@@ -34,7 +34,7 @@ echo -e ${GREEN}"Members : Alisyah, Shofietunisa, Inunk"
 echo -e ${blue}"____________________________________________________________"
 echo
 
-echo -e "${GREEN}1. Cracked Password"
+echo -e ${GREEN}"1. Cracked Password"
 echo "2. Send Link Virus"
 echo "3. Info Menu!!"
 echo -e "0. EXIT${DELETE}"
